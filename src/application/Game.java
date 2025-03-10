@@ -12,6 +12,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 public class Game {
+    //sdfsdfs
     private Stage primaryStage;
     private Pane gamePane;
     private Player player;
